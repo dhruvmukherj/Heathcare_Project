@@ -1,0 +1,4 @@
+Feature set,Mean ROC-AUC,Lowest seed,Highest seed
+Imaging only,0.639,0.619,0.655
+Clinical only,0.742,0.739,0.744
+Combined,0.793,0.777,0.817
